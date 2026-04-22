@@ -1,0 +1,38 @@
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Infrasturacture.deps.json
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Infrasturacture.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Infrasturacture.dll
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Infrasturacture.pdb
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Application.dll
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Domain.dll
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Application.pdb
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Domain.pdb
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppoint.457BF829.Up2Date
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.dll
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\refint\eAppointmentServer.Infrasturacture.dll
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.pdb
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Projeler\eAppoinetment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\ref\eAppointmentServer.Infrasturacture.dll
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Infrasturacture.deps.json
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Infrasturacture.runtimeconfig.json
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Infrasturacture.dll
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Infrasturacture.pdb
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Application.dll
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Domain.dll
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Application.pdb
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\bin\Debug\net8.0\eAppointmentServer.Domain.pdb
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppoint.457BF829.Up2Date
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.dll
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\refint\eAppointmentServer.Infrasturacture.dll
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.pdb
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\eAppointmentServer.Infrasturacture.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\CSharpProjeler\eAppointment\eAppointmentServer\eAppointmentServer.Infrasturacture\obj\Debug\net8.0\ref\eAppointmentServer.Infrasturacture.dll
