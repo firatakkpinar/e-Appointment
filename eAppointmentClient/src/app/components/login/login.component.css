@@ -1,0 +1,19 @@
+.eye {
+  position: absolute;
+  top: 35px;
+  right: 10px;
+  cursor: pointer;
+  color: #666;
+  font-size: 18px;
+  transition: all 0.3s ease;
+  z-index: 10;
+}
+
+.eye:hover {
+  color: #007bff;
+  transform: scale(1.15);
+}
+
+.eye:active {
+  transform: scale(0.95);
+}
